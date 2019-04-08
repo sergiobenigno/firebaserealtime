@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "154922279445",
+    "firebase_url": "https://efecto22a.firebaseio.com",
+    "project_id": "efecto22a",
+    "storage_bucket": "efecto22a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154922279445:android:86afb66b4b177e4b",
+        "android_client_info": {
+          "package_name": "com.example.benigno.tpdm_u3_ejemplofirebaserealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA90mZcwBZHQs56mrnTsz3u7QW8BfEy-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154922279445-u6o2e9cspqm2voi2aqslfgsip5grp1cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154922279445:android:29459c430181e30d",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.sergio.efecto22"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA90mZcwBZHQs56mrnTsz3u7QW8BfEy-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154922279445-u6o2e9cspqm2voi2aqslfgsip5grp1cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
